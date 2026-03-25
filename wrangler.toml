@@ -1,3 +1,4 @@
 name = "website1234"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
+account_id = "080fd9e0587416d2fa30ed1f527e2323"
